@@ -1,2 +1,2 @@
 # Vehicle-Counting
-This repository contains Python code utilizing OpenCV for real-time vehicle detection and counting from a video feed. It includes background subtraction, contour detection, and a simple crossing-line mechanism to count vehicles passing a specified point.
+This repo offers a Python script for real-time vehicle detection and counting with OpenCV. It processes video, detects vehicles, and counts them as they cross a line, ideal for traffic monitoring.
